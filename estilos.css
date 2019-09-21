@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+#foto-grupal {
+  margin: 0;
+}
+header img {
+  width: 100%;
+}
+section img {
+  width: 250px;
+}
+#main {
+  text-align: center;
+}
+#main div {
+  display: flex;
+  justify-content: center;
+}
+#carrusel {
+  text-align: center;
+}
+#carrusel div {
+  display: flex;
+  overflow-y: hidden;
+  justify-content: center;
+}
+footer {
+  text-align: center;
+}
